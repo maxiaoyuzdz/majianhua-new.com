@@ -158,7 +158,7 @@ body {
         margin: 0 auto 20px;
     }
 
-    .featurette .weixincontactimg{
+    .featurette .weixincontactimg, .featurette .artistpic, .featurette .shucepic{
         max-width: 80%;
     }
 }
@@ -208,7 +208,7 @@ body {
         line-height: 1.5;
     }
 
-    .featurette .weixincontactimg{
+    .featurette .weixincontactimg, .featurette .artistpic, .featurette .shucepic{
         max-width: 80%;
     }
 
