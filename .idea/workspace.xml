@@ -20,21 +20,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="73" selection-start="5977" selection-end="5977" vertical-scroll-proportion="-1.9615384">
-              <folding>
-                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="76" column="46" selection-start="2892" selection-end="2892" vertical-scroll-proportion="0.55172414">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="standardstyle.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="standardstyle.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/standardstyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="212" column="5" selection-start="4128" selection-end="4128" vertical-scroll-proportion="0.672447">
+            <state line="120" column="20" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -56,8 +54,8 @@
         <option value="$PROJECT_DIR$/assets/less/testless1.less" />
         <option value="$PROJECT_DIR$/assets/css/mydefinecss.css" />
         <option value="$PROJECT_DIR$/assets/less/basicstyle.less" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/standardstyle.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -112,6 +110,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,13 +215,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="majianhua-new.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="majianhua-new.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,8 +251,8 @@
     <property name="options.lastSelected" value="web.server" />
     <property name="last_opened_file_path" value="D:/Server/Apache2.4/htdocs" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="Apache" serverId="23d65adc-2589-496d-badf-37d184492952" autoUpload="true">
     <servers>
@@ -362,9 +382,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="27" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -376,9 +394,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="29" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -436,23 +452,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/mydefinecss.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="1175" selection-end="1224" vertical-scroll-proportion="0.0">
+        <state line="46" column="0" selection-start="1175" selection-end="1224" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/standardstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="20" selection-start="2550" selection-end="2550" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="73" selection-start="5977" selection-end="5977" vertical-scroll-proportion="-1.9615384">
-          <folding>
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/standardstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="5" selection-start="4128" selection-end="4128" vertical-scroll-proportion="0.672447">
+        <state line="76" column="46" selection-start="2892" selection-end="2892" vertical-scroll-proportion="0.55172414">
           <folding />
         </state>
       </provider>
