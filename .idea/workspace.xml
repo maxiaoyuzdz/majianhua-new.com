@@ -23,7 +23,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="18" selection-start="3083" selection-end="3083" vertical-scroll-proportion="0.79310346">
+            <state line="114" column="27" selection-start="4240" selection-end="4240" vertical-scroll-proportion="1.7241379">
               <folding />
             </state>
           </provider>
@@ -32,7 +32,7 @@
       <file leaf-file-name="standardstyle.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/standardstyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="20" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0">
+            <state line="200" column="24" selection-start="3897" selection-end="3897" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -54,8 +54,8 @@
         <option value="$PROJECT_DIR$/assets/less/testless1.less" />
         <option value="$PROJECT_DIR$/assets/css/mydefinecss.css" />
         <option value="$PROJECT_DIR$/assets/less/basicstyle.less" />
-        <option value="$PROJECT_DIR$/assets/css/standardstyle.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/standardstyle.css" />
       </list>
     </option>
   </component>
@@ -110,7 +110,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -243,6 +242,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,8 +251,8 @@
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="D:/Server/Apache2.4/htdocs" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="Apache" serverId="23d65adc-2589-496d-badf-37d184492952" autoUpload="true">
     <servers>
@@ -457,14 +457,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/standardstyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="20" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0">
+        <state line="200" column="24" selection-start="3897" selection-end="3897" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="18" selection-start="3083" selection-end="3083" vertical-scroll-proportion="0.79310346">
+        <state line="114" column="27" selection-start="4240" selection-end="4240" vertical-scroll-proportion="1.7241379">
           <folding />
         </state>
       </provider>

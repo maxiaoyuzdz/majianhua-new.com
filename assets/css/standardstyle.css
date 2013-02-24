@@ -195,22 +195,37 @@ body {
     .carousel img {
         height: 300px;
     }
-    /*.carousel-caption {
+    /*==========================*/
+    .carousel-caption {
         width: 65%;
-        padding: 0 70px;
-        margin-top: 100px;
+        padding: 0 90px;
+        margin-top: 70px;
     }
 
-    hidden element on small screen */
+    .carousel-caption h1,
+    .carousel-caption .lead {
+        margin: 0;
+        line-height: 0.75;
+        color: #fff;
+        text-shadow: 0 0.5px 0.5px rgba(0,0,0,.4);
+    }
+    .carousel-caption h1 {
+        font-size: 16px;
+    }
+    .carousel-caption .lead {
+        font-size: 2px;
+    }
+    /*==========================*/
+
+    /* hidden element on small screen */
+    /*
     .carousel-caption {
-        display:block;/*统一转化为块级元素*/
+        display:block;
         overflow: hidden;
         width: 0;
         height: 0;
-    }
-    .carousel-caption h1 {
-        font-size: 30px;
-    }
+    }*/
+
     .carousel-caption .lead,
     .carousel-caption .btn {
         font-size: 18px;
