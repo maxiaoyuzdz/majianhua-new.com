@@ -58,7 +58,9 @@ body {
 }
 
 .carousel .item {
+
     height: 500px;
+
 }
 
 .carousel img {
@@ -89,6 +91,10 @@ body {
 
 .marketing .span4 {
     text-align: center;
+}
+.marketing .span4 img{
+    width: 140px;
+    height: 140px;
 }
 .marketing h2 {
     font-weight: normal;
@@ -161,6 +167,12 @@ body {
     .featurette .weixincontactimg, .featurette .artistpic, .featurette .shucepic{
         max-width: 80%;
     }
+
+    .carousel .item, .carousel .item img{
+
+        height: 350px;
+
+    }
 }
 
 
@@ -211,6 +223,26 @@ body {
     .featurette .weixincontactimg, .featurette .artistpic, .featurette .shucepic{
         max-width: 80%;
     }
+
+    .carousel .item, .carousel .item img{
+
+        height: 130px;
+
+    }
+
+    .carousel-control {
+        height: 80px;
+        margin-top: 0;
+        font-size: 45px;
+        text-shadow: 0 1px 1px rgba(0,0,0,.4);
+        background-color: transparent;
+        border: 0;
+        z-index: 10;
+    }
+
+
+}
+
 
 
 }
