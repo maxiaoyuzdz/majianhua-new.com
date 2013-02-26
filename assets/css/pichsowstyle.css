@@ -8,6 +8,16 @@ body {
 .imgcontainer{
     /*min-height: 300px;*/
     vertical-align: middle;
+    /*width: 256px;*/
+    /*height: 256px;*/
+}
+.imgcontainer img{
+
+    width: 90%;
+    height: 90%;
+
+    /*max-height: 256px;*/
+    /*max-width: 256px;*/
 }
 .img-buyweixin{
     width: 50%;
@@ -39,5 +49,13 @@ body {
 
     .img-buyweixin{
         width: 80%;
+    }
+
+    .imgcontainer{
+        /*min-height: 300px;*/
+        vertical-align: middle;
+
+    }
+    .imgcontainer img{
     }
 }

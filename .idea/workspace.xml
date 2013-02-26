@@ -32,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="211" column="162" selection-start="8034" selection-end="8185" vertical-scroll-proportion="-8.884615">
+            <state line="211" column="162" selection-start="8034" selection-end="8185" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -47,19 +47,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="picshow.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="picshow.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/picshow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="333" column="162" selection-start="14507" selection-end="14507" vertical-scroll-proportion="0.56285715">
+            <state line="102" column="26" selection-start="3650" selection-end="3650" vertical-scroll-proportion="-6.5384617">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pichsowstyle.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pichsowstyle.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/pichsowstyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0">
+            <state line="2" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="0.087403595">
               <folding />
             </state>
           </provider>
@@ -82,9 +82,9 @@
         <option value="$PROJECT_DIR$/assets/css/mydefinecss.css" />
         <option value="$PROJECT_DIR$/assets/less/basicstyle.less" />
         <option value="$PROJECT_DIR$/assets/css/standardstyle.css" />
-        <option value="$PROJECT_DIR$/assets/css/pichsowstyle.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/picshow.html" />
+        <option value="$PROJECT_DIR$/assets/css/pichsowstyle.css" />
       </list>
     </option>
   </component>
@@ -200,8 +200,8 @@
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="D:/Server/Apache2.4/htdocs" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig" serverName="Apache" serverId="23d65adc-2589-496d-badf-37d184492952" autoUpload="true">
     <servers>
@@ -399,23 +399,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/pichsowstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="162" selection-start="8034" selection-end="8185" vertical-scroll-proportion="-8.884615">
+        <state line="211" column="162" selection-start="8034" selection-end="8185" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/picshow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="333" column="162" selection-start="14507" selection-end="14507" vertical-scroll-proportion="0.56285715">
+        <state line="102" column="26" selection-start="3650" selection-end="3650" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/pichsowstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="0.087403595">
           <folding />
         </state>
       </provider>
