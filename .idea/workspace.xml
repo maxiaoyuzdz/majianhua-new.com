@@ -32,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="28" selection-start="5833" selection-end="5833" vertical-scroll-proportion="-0.65384614">
+            <state line="211" column="162" selection-start="8034" selection-end="8185" vertical-scroll-proportion="-8.884615">
               <folding />
             </state>
           </provider>
@@ -50,7 +50,7 @@
       <file leaf-file-name="picshow.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/picshow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="316" column="13" selection-start="13866" selection-end="13866" vertical-scroll-proportion="0.56285715">
+            <state line="333" column="162" selection-start="14507" selection-end="14507" vertical-scroll-proportion="0.56285715">
               <folding />
             </state>
           </provider>
@@ -200,8 +200,8 @@
     <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="D:/Server/Apache2.4/htdocs" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="Apache" serverId="23d65adc-2589-496d-badf-37d184492952" autoUpload="true">
     <servers>
@@ -408,14 +408,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="28" selection-start="5833" selection-end="5833" vertical-scroll-proportion="-0.65384614">
+        <state line="211" column="162" selection-start="8034" selection-end="8185" vertical-scroll-proportion="-8.884615">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/picshow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="316" column="13" selection-start="13866" selection-end="13866" vertical-scroll-proportion="0.56285715">
+        <state line="333" column="162" selection-start="14507" selection-end="14507" vertical-scroll-proportion="0.56285715">
           <folding />
         </state>
       </provider>

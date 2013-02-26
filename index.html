@@ -49,6 +49,11 @@
                         <li>
                             <a href="picshow.html#">Exhibition 作品展示</a>
                         </li>
+
+                        <li>
+                            <a href="#copyrightinfomodal" data-toggle="modal">Copyright 版权声明</a>
+                        </li>
+
                     </ul>
                 </div>
                 <!-- /.nav-collapse -->
@@ -196,6 +201,21 @@
     </footer>
 
 </div>
+
+
+<div class="modal hide fade" id="copyrightinfomodal">
+    <div class="modal-header">
+        <button class="close" data-dismiss="modal">x</button>
+        <h3>COPYRIGHT 版权声明</h3>
+    </div>
+    <div class="modal-body">
+        <p>本网站所有作品内容版权均属于马老师，任何人，单位不得在未经允许的情况下使用作品于任何场景和用途，如想使用，必须先通过马老师的许可，可以通过<a href="index.html#contactinformation"> 微信，电话或者邮件</a>联系马老师。如发现有非法使用的情况，将立即采取法律措施。
+        </p>
+    </div>
+    <div class="modal-footer">
+        <a href="#" class="btn" data-dismiss="modal">Close 关闭</a>
+    </div>
+</div>
 <!-- ================================================= -->
 <!-- Le javascript
     ================================================== -->
@@ -225,6 +245,8 @@
             $('#myCarousel').carousel()
         })
     }(window.jQuery)
+
+    $("#copyrightinfomodal").modal({show:false});
 </script>
 <!-- extra script used for the circle img
 <script src="assets/js/holder.js"></script>-->
