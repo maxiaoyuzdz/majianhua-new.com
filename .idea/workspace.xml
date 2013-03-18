@@ -20,46 +20,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6117" column="28" selection-start="126806" selection-end="126806" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="256" column="0" selection-start="9930" selection-end="10489" vertical-scroll-proportion="-11.653846">
+            <state line="57" column="29" selection-start="2422" selection-end="2422" vertical-scroll-proportion="0.7348703">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="standardstyle.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/standardstyle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="178" column="25" selection-start="3502" selection-end="3527" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="picshow.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="picshow.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/picshow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="384" column="0" selection-start="16596" selection-end="16596" vertical-scroll-proportion="0.7795389">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pichsowstyle.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/pichsowstyle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+            <state line="373" column="0" selection-start="16047" selection-end="16047" vertical-scroll-proportion="-20.807692">
               <folding />
             </state>
           </provider>
@@ -268,7 +241,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-8" width="1393" height="916" extended-state="7" />
+    <frame x="55" y="-8" width="1393" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -422,16 +395,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/picshow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="256" column="0" selection-start="9930" selection-end="10489" vertical-scroll-proportion="-11.653846">
+        <state line="373" column="0" selection-start="16047" selection-end="16047" vertical-scroll-proportion="-20.807692">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/picshow.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="384" column="0" selection-start="16596" selection-end="16596" vertical-scroll-proportion="0.7795389">
+        <state line="57" column="29" selection-start="2422" selection-end="2422" vertical-scroll-proportion="0.7348703">
           <folding />
         </state>
       </provider>
